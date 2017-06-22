@@ -1,0 +1,64 @@
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: #feffff;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: #feffff;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  padding-top: 50px;
+  padding-left: 20%;
+  padding-right: 20%;
+  color: #feffff;
+}
+
+form {
+  display: inline-block;
+  text-align: center;
+  padding-left: 38%;
+  padding-top: 5%;
+}
+
+label {
+  font-family: 'Montserrat', sans-serif;
+  color: #feffff;
+}
+
+body {
+  background: #020325;
+  border-right: 70px solid #15eef5;
+  border-left: 70px solid #15eef5;
+}
+
+#names {
+  width: 300px;
+  height: 30px;
+}
+
+#sub {
+  border-radius: 25px;
+  background: #FF9F1C;
+  height: 80px;
+  width: 150px;
+  font-family: "Montserrat";
+  font-size: 1.2em;
+  margin-bottom: 4px;
+  margin-top: 10px;
+}
+.thankyou{
+
+  border-right: 10px solid #15eef5;
+  border-left: 10px solid #15eef5;
+  border-bottom: 70px solid #15eef5;
+}
+
+.Thank{
+    background: #020325;
+}

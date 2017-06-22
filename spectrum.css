@@ -1,0 +1,42 @@
+h1{
+
+font-family: 'Indie Flower', cursive;
+text-align: center;
+}
+
+.table{
+  margin: auto;
+}
+
+tr{
+  height: 400px;
+  /*width: 100px;*/
+  border: 50px solid white;
+  padding: 30%;
+}
+
+
+#one {
+  background: #DC1D40;
+  width: 100px;
+}
+
+#two{
+  background: #177E89;
+  width: 100px;
+}
+
+#three{
+  background: #084C61;
+  width: 100px;
+}
+
+#four{
+  background: #FFC857;
+    width: 100px;
+}
+
+#five{
+  background: #323031;
+    width: 100px;
+}

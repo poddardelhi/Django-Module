@@ -26,7 +26,7 @@ var employee = {
 var employee = {
   name: "John Smith",
   job: "Programmer",
-  age: 31
+  age: 31,
   prompt: function(){
     alert("Name is "+this.name+ ", Job is"+this.job+ ", Age is"+this.age)
   }
@@ -47,9 +47,9 @@ var employee = {
 var employee = {
   name: "John Smith",
   job: "Programmer",
-  age: 31
+  age: 31,
   lastName: function(){
-    var str= this.name.split(" ",5)
+    var str= this.name.split(" ",[1])
     console.log(str);
   }
 }
